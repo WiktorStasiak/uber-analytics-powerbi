@@ -1,5 +1,7 @@
 # 🚖 Analiza Przejazdów UBERa w 2024 roku – Power BI Dashboard
 
+![Image](https://github.com/user-attachments/assets/c5d01cb3-ae95-4e0f-aa72-4af70af87ff3)
+
 Interaktywny dashboard stworzony w Power BI na podstawie danych z Kaggle dotyczących rezerwacji przejazdów Ubera w Indiach w 2024 roku.  
 Projekt pokazuje umiejętności analizy danych, budowania raportów w Power BI oraz projektowania wizualizacji wspierających decyzje biznesowe.  
 
@@ -41,10 +43,8 @@ Projekt pokazuje umiejętności analizy danych, budowania raportów w Power BI o
 ---
 
 ## 📂 Zawartość repozytorium
-- `` – plik Power BI z gotowym raportem  
-- `` – dane źródłowe (lub link do Kaggle)  
-- `` – raport w wersji PDF  
-- `` – zrzuty ekranu z dashboardu  
+- `AnalizaPrzejazdówUBERa2024.pbix` – plik Power BI z raportem   
+- `AnalizaPrzejazdówUBERa2024.pdf` – raport w wersji PDF  
 
 ---
 
